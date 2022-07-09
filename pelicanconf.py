@@ -34,4 +34,4 @@ DEFAULT_PAGINATION = 10
 STATIC_PATHS = ['images', 'pdfs']
 # from pathlib import Path
 # print(Path.cwd())
-THEME = 'theme/Flex'
+# THEME = 'theme/Flex'
